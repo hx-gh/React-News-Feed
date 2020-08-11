@@ -28,6 +28,7 @@ This project was made using the follow technologies:
 * Website to display news about Brasil, US and about Global Economy
 
 # :construction_worker: How to run
+## Go to https://newsapi.org/ create your account, then insert your API KEY on the .env file on backend folder.
 ```bash
 # Clone Repository
 $ git clone https://github.com/hx-gh/React-News-Feed.git
