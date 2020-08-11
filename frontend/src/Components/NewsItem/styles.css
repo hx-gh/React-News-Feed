@@ -1,0 +1,28 @@
+.container-news-card{
+    list-style-type: none;
+    border: 1px solid black;
+    height: 192px;
+}
+.container-news-holder{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    height: 192px;
+    align-items: center;
+    border: 1px solid rgb(40,40,40,0.2);
+    border-radius: 8px;
+    background-color: #F7F7F7;
+    margin: 1rem;
+    padding: 1rem;
+}
+.text-container{
+    margin-left: 1rem;
+}
+.news-title{
+    margin: 0;
+    padding: 0;
+    font: 700 0.8rem Montserrat;
+    margin-bottom: 0.5rem;
+}
+.news-description{
+    font: 500 0.8rem Montserrat; 
+}
